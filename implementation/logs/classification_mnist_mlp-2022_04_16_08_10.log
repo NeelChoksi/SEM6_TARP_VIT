@@ -1,0 +1,4 @@
+2022-04-16 08:12:03,802 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-04-16 08:12:03,816 - voting.py[line:240] - INFO: Epoch: 000 | Validation Acc: 96.300 % | Historical Best: 96.300 %
+2022-04-16 08:13:44,481 - io.py[line:35] - INFO: Saving the model to `./VotingClassifier_MLP_10_ckpt.pth`
+2022-04-16 08:13:44,496 - voting.py[line:240] - INFO: Epoch: 001 | Validation Acc: 97.510 % | Historical Best: 97.510 %
